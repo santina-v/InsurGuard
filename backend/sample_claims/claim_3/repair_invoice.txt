@@ -1,0 +1,22 @@
+VEHICLE REPAIR INVOICE
+
+Vehicle: 2019 Ford Fusion
+Service Date: May 23, 2026
+
+Damage Description:
+Extensive front-end structural damage requiring replacement
+of the front bumper assembly, hood, radiator, front frame
+components, headlights, cooling system and multiple internal
+components.
+
+Damage Location: Front
+
+Estimated Cause:
+Major high-impact frontal collision.
+
+Parts and Labor:
+Complete front-end reconstruction, structural frame repair,
+radiator replacement, hood replacement, headlight replacement,
+painting and extensive labor.
+
+Total Cost: $6,850.00

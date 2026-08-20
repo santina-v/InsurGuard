@@ -1,0 +1,20 @@
+VEHICLE REPAIR INVOICE
+
+Vehicle: 2021 Honda Civic
+Service Date: April 11, 2026
+
+Damage Description:
+The rear bumper and trunk area were damaged in the collision.
+The rear bumper requires replacement and the trunk requires
+minor body repair.
+
+Damage Location: Rear
+
+Estimated Cause:
+Another vehicle struck the rear of the claimant's vehicle
+while it was stopped at a traffic signal.
+
+Parts and Labor:
+Rear bumper replacement, trunk repair, paint and labor.
+
+Total Cost: $1,240.00

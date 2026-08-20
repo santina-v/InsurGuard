@@ -1,0 +1,17 @@
+MEDICAL REPORT
+
+Patient Name: Daniel Carter
+
+Treatment Date: March 15, 2026
+Treatment Time: 9:00 AM
+
+Chief Complaint:
+Patient reports neck pain, back pain, and dizziness following
+a motor vehicle accident.
+
+Reported Onset:
+"Immediately after this morning's accident."
+
+Clinical Notes:
+Patient reported that the symptoms began suddenly and that
+he experienced pain immediately following the accident.

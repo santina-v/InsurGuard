@@ -1,0 +1,19 @@
+VEHICLE REPAIR INVOICE
+
+Vehicle: 2020 Toyota Camry
+Service Date: March 16, 2026
+
+Damage Description:
+The rear bumper, rear trunk panel, and rear body structure
+were damaged and require replacement and repair.
+
+Damage Location: Rear
+
+Estimated Cause:
+Collision with another vehicle.
+
+Parts and Labor:
+Rear bumper replacement, trunk panel repair, rear body
+alignment, paint and labor.
+
+Total Cost: $5,070.00

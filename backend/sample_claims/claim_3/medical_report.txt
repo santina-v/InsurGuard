@@ -1,0 +1,18 @@
+MEDICAL REPORT
+
+Patient Name: Michael Anderson
+
+Treatment Date: May 22, 2026
+Treatment Time: 7:00 PM
+
+Chief Complaint:
+Patient reports mild shoulder soreness following a minor
+motor vehicle collision.
+
+Reported Onset:
+"The shoulder soreness began shortly after the minor collision
+at approximately 5:30 PM."
+
+Clinical Notes:
+The patient was alert and ambulatory. No serious injuries
+were identified during the examination.

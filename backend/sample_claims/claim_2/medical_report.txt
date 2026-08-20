@@ -1,0 +1,17 @@
+MEDICAL REPORT
+
+Patient Name: Sarah Mitchell
+
+Treatment Date: April 10, 2026
+Treatment Time: 4:30 PM
+
+Chief Complaint:
+Patient reports neck pain following a motor vehicle accident.
+
+Reported Onset:
+"The neck pain began shortly after the accident at approximately 2:00 PM."
+
+Clinical Notes:
+Patient was evaluated approximately two and a half hours after
+the reported collision. Examination was consistent with a minor
+whiplash injury.
